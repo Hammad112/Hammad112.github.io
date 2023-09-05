@@ -1,0 +1,30 @@
+.container-fluid{
+	margin: 0px;
+	padding: 0px;
+}
+.navbar-brand{
+	color: black;
+}
+.navbar-toggle{
+	background-color: white;
+	border:1px solid black;
+}
+.icon-bar{
+	background-color: rgb(22, 11, 11);
+}
+.item-name{
+	color: black;
+	font-weight: bolder;
+	font-size: 20px;
+}
+.row{
+	padding: 0%;
+	margin: 0%;
+	width: 100%;
+	
+}
+
+.content-box{
+	border: 2px solid black;
+	margin-bottom: 20px;
+}
